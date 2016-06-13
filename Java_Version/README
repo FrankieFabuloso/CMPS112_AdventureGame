@@ -1,0 +1,10 @@
+README:
+
+Steps to run EK4:
+- 	compile Adventure.java via javac
+- 	then run Adveture.java 
+- 	Ta-dah! You have now engaged in an exiting space text adveture!
+
+Tips: 
+- 	to check your health or potions at any time just type "STATUS". Be weary of your
+  	moves, every move results in -5 hp due to fatigue! Reach 0 hp and you lose. 

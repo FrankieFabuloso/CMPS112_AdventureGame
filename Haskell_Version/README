@@ -1,0 +1,13 @@
+README:
+
+Steps to run EK4:
+- 	set up your desired haskell compiler environment ( we used ghci on our terminal )
+- 	load the Adveture.hs file via comand :l Adveture.hs 
+- 	run the main functions via typing "main" on prompt window
+- 	Ta-dah! You have now engaged in an exiting space text adveture!
+
+Tips: 
+- 	this impementations needs you to type all comands in ALL CAPS. So to go to 
+  	the kitchen type "KITCHEN" not "kitchen"
+- 	to check your health or potions at any time just type "STATUS". Be weary of your
+  	moves, every move results in -5 hp due to fatigue! Reach 0 hp and you lose. 
